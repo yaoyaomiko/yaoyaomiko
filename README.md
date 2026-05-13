@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is miko and I'm a member o2j, from ngawi utara</h2>
 
 ###
 
